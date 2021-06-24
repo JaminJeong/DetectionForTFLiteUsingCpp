@@ -1,0 +1,2 @@
+include ':app', ':continuumaiandroidaar'
+project(':continuumaiandroidaar').projectDir = new File('../ContinuumAIAndroidAAR/app')

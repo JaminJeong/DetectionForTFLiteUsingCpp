@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  Unity-iPhone
+//
+//  Created by Mac on 2018. 5. 15..
+//
+
+//TF_ROOT=/Users/continuum/iOS_Tensorflow_ObjectDetection_Example/tensorflow/
+TF_ROOT=/Users/continuum/Downloads/tensorflow_
+TF_LITE_1_10_ROOT=$(TF_ROOT)/tensorflow/contrib/lite
+TF_LITE_1_13_ROOT=$(TF_ROOT)/tensorflow/lite/tools/make
